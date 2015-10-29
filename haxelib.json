@@ -1,0 +1,11 @@
+{
+  "name": "partials",
+  "url" : "https://github.com/FuzzyWuzzie/haxe-partials",
+  "license": "MIT",
+  "tags": ["cross", "utility"],
+  "description": "A simple macro library for writing classes as partials (splitting a single class into multiple source files).",
+  "version": "1.0.0",
+  "releasenote": "Initial release, basic testing shows all systems are go!",
+  "contributors": ["FuzzyWuzzie"],
+  "dependencies": {}
+}
